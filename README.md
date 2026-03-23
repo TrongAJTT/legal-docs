@@ -1,6 +1,6 @@
 # ⚖️ Legal Documents & Policies
 
-Welcome to the central repository for all legal documents, privacy policies, and terms of service related to the software products, browser extensions, and web applications developed by Minh (TrongAJTT).
+Welcome to the central repository for all legal documents, privacy policies, and terms of service related to the software products, browser extensions, and web applications developed by TrongAJTT.
 
 ## 🎯 Why is this repository public?
 **Transparency and Trust.** We believe that users have the right to know exactly how their data is handled and what terms they are agreeing to. By hosting these documents on a public GitHub repository, we ensure:
@@ -15,22 +15,22 @@ Below is the directory of our current active projects and their respective legal
 
 ### 📑 [Heta - Tab Helper](./heta)
 *A simple browser extension for managing tabs and URLs efficiently.*
-* [Privacy Policy](./heta/privacy.md)
+* [Privacy Policy](./heta/policy.md)
 * [Terms of Service](./heta/terms.md)
 
 ### 🖼️ [Imify - Save & Convert Images](./imify)
 *A powerful, client-side batch image processor utilizing multi-threaded WASM.*
-* [Privacy Policy](./imify/privacy.md)
+* [Privacy Policy](./imify/policy.md)
 * [Terms of Service](./imify/terms.md)
 
 ### 📁 [P2Lan - Peer-to-Peer LAN Transfer](./p2lan)
 *A decentralized, offline-first file-sharing application for local networks.*
-* [Privacy Policy](./p2lan/privacy.md)
+* [Privacy Policy](./p2lan/policy.md)
 * [Terms of Service](./p2lan/terms.md)
 
 ### 🎲 [Random Please](./random-please)
 *A simple local utility for generating random outcomes.*
-* [Privacy Policy](./random-please/privacy.md)
+* [Privacy Policy](./random-please/policy.md)
 * [Terms of Service](./random-please/terms.md)
 
 
