@@ -1,6 +1,7 @@
 ### Privacy Policy for Imify
 
 **Effective Date:** March 23, 2026
+
 **Last Updated:** April 1, 2026
 
 **1. Introduction**
