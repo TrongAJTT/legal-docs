@@ -1,6 +1,6 @@
 # Privacy Policy for Heta - Tab Helper
 
-**Effective Date:** March 2026
+**Effective Date:** March 23, 2026
 
 **1. Zero Data Collection**
 

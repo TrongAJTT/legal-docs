@@ -1,6 +1,6 @@
 # Terms of Service for Heta - Tab Helper
 
-**Effective Date:** March 2026
+**Effective Date:** March 23, 2026
 
 Welcome to Heta - Tab Helper. By installing and using this extension, you agree to the following terms.
 

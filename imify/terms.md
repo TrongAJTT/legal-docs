@@ -1,6 +1,6 @@
 ### Terms of Service for Imify
 
-**Effective Date:** March 2026
+**Effective Date:** March 23, 2026
 
 Welcome to Imify. By installing and using the Imify browser extension, you agree to these Terms of Service. If you do not agree, please do not use the extension.
 

@@ -1,6 +1,6 @@
 # Privacy Policy for Random Please
 
-**Effective Date:** March 2026
+**Effective Date:** March 23, 2026
 
 **1. No Data Collection**
 

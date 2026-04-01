@@ -1,6 +1,6 @@
 # Privacy Policy for P2lan
 
-**Effective Date:** March 2026
+**Effective Date:** March 23, 2026
 
 **1. Nature of the Service (Zero Server Storage)**
 

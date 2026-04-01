@@ -1,6 +1,7 @@
 ### Privacy Policy for Imify
 
-**Effective Date:** March 2026
+**Effective Date:** March 23, 2026
+**Last Updated:** April 1, 2026
 
 **1. Introduction**
 
@@ -14,7 +15,7 @@ All image processing, format conversion, and compression are executed strictly *
 **3. Permissions Explained**
 
 To function correctly as a seamless image processor, Imify requires specific browser permissions. Here is exactly why we need them:
-*   **`<all_urls>` / `host_permissions` & `tabs`:** Required to allow the Context Menu (Right-click) to capture and fetch images from any website you are currently visiting, and to support the "Import from URL" feature.
+*   **`<all_urls>` & `host_permissions`:** Required to allow the Context Menu (Right-click) to capture and fetch images from any website you are currently visiting, and to support the "Import from URL" feature.
 *   **`content_scripts`:** Required to inject temporary UI elements (such as a Progress Bar or loading Spinner) into the current webpage so you can see the conversion status without opening a separate tab.
 *   **`downloads`:** Required to automatically save the converted images, ZIP files, or PDFs directly to your local storage without repeatedly prompting the "Save As" dialog.
 
