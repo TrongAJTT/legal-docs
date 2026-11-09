@@ -2,13 +2,13 @@
 
 **Effective Date:** April 29, 2026
 
-**Last Updated:** July 10, 2026
+**Last Updated:** November 9, 2026
 
-Welcome to Imify. By using the Imify platform—including our web application and browser extension - you agree to these Terms of Service. If you do not agree, please do not use our services.
+Welcome to Imify. By using the Imify platform-including our web application and browser extension - you agree to these Terms of Service. If you do not agree, please do not use our services.
 
 **1. Nature of the Service (Local Processing & AI)**
 
-Imify is a local-first image processing platform. All operations—including format conversion, compression, resizing, metadata inspection, image splitting, image splicing, local QR code generation/reading, and AI-powered background removal—are performed strictly locally on your device (client-side) using your browser's resources (WebAssembly, WebGPU, and Web Workers). We do not host, store, or process your images or video/camera streams on external servers.
+Imify is a local-first image processing platform. All operations - including format conversion, compression, resizing, metadata inspection, image splitting, image splicing, local QR code generation/reading, and AI-powered background removal-are performed strictly locally on your device (client-side) using your browser's resources (WebAssembly, WebGPU, and Web Workers). We do not host, store, or process your images or video/camera streams on external servers.
 
 **2. User Responsibilities and Image Rights**
 

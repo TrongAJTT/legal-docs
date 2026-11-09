@@ -2,13 +2,15 @@
 
 **Effective Date:** November 4, 2026
 
+**Last Updated:** November 9, 2026
+
 **1. No Personal Data Collection**
 
 Random Please is designed with privacy as a foundational principle. We explicitly state that **we do not collect, store, track, transmit, or share any personal information, usage analytics, or persistent device identifiers.**
 
 **2. Local Processing & Storage**
 
-All core functionalities—including coin flips, dice rolls, number calling, password generation, list picking, and other randomizations—are computed entirely on your device. Your settings, customized presets, and interaction history are stored solely in your device's local storage (`SharedPreferences` / `Hive`) and never leave your device.
+All core functionalities-including coin flips, dice rolls, number calling, password generation, list picking, and other randomizations - are computed entirely on your device. Your settings, customized presets, and interaction history are stored solely in your device's local storage (`SharedPreferences` / `Hive`) and never leave your device.
 
 **3. Internet Access**
 
