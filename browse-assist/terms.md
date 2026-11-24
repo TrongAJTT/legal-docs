@@ -1,6 +1,6 @@
 # Terms of Service for Browse Assist
 
-**Last Updated:** November 9, 2026
+**Last Updated:** November 24, 2026
 
 **Effective Date:** November 9, 2026  
 
@@ -18,8 +18,8 @@ Browse Assist is a client-side browser extension designed as a collection of Qua
 - Super Drag gestures for search and background link opening;
 - Enhanced smooth scrolling and mouse pin-to-zoom navigation;
 - Video playback controls and Universal Picture-in-Picture;
-- Color picker magnifier and on-screen element zapping;
-- Quick Hub floating access menu.
+- Color picker magnifier, on-screen element zapping, and image hover preview;
+- Quick Hub floating access menu and per-site exclusion rules.
 
 All utilities run locally within your web browser environment.
 

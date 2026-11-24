@@ -1,6 +1,6 @@
 # Privacy Policy for Browse Assist
 
-**Last Updated:** November 9, 2026
+**Last Updated:** November 24, 2026
 
 **Effective Date:** November 9, 2026  
 
@@ -31,7 +31,7 @@ Browse Assist does **NOT**:
 
 Browse Assist saves minimal configuration data solely to remember your preferences and ensure your custom settings persist across browser sessions:
 
-- **User Preferences and Feature Settings:** Your chosen presets for Smooth Scrolling, Super Drag directions, video wheel steps, badge preferences, enabled/disabled feature toggles, and Quick Hub ordering.
+- **User Preferences and Feature Settings:** Your chosen presets for Smooth Scrolling, Super Drag directions, video wheel steps, badge preferences, enabled/disabled feature toggles, Quick Hub ordering, and per-site exclusion rules.
 - **Storage Mechanism:** Stored locally on your device using the browser's native `chrome.storage.local` API (via `@plasmohq/storage`).
 - **Data Retention & Deletion:** This data remains on your machine until you manually reset your preferences via the extension settings or uninstall the extension. Uninstalling Browse Assist immediately and automatically removes all locally stored extension data from your browser.
 
@@ -43,7 +43,8 @@ Browse Assist requests only the minimum set of permissions necessary to deliver 
 
 | Permission | Purpose & Scope |
 | :--- | :--- |
-| **`storage`** | Required to save and persist your user preferences, toggled states, and layout configurations locally in `chrome.storage.local`. No data is synced to external servers. |
+| **`storage`** | Required to save and persist your user preferences, toggled states, per-site rules, and layout configurations locally in `chrome.storage.local`. No data is synced to external servers. |
+| **`activeTab`** | Used solely to read the active tab's URL and hostname when you explicitly open the extension popup or Site Rules manager, enabling per-site exclusion status (`Site off`) and current-domain quick-fill. No browsing history or URLs from other tabs are ever accessed or transmitted. |
 | **`contextMenus`**<br>*(or **`menus`** in Firefox)* | Required to display context menu shortcuts on right-click (such as *"Clean Link on Copy"*, *"Copy Link Text"*, and *"Markdown Link Copy"*). |
 | **`clipboardWrite`** | Required to write clean links, Markdown links, or extracted color hex codes (from Color Picker) to your operating system clipboard **only upon your explicit click or action**. Browse Assist never reads from your clipboard (`clipboardRead` is not requested). |
 | **`search`** | Used exclusively by the **Super Drag** feature to query your browser's default search engine when you highlight and drag text. |
